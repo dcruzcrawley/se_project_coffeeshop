@@ -14,3 +14,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 Add your ideas here :)
+
+testing to detect Git Bash
