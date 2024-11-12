@@ -1,0 +1,12 @@
+.page {
+  box-sizing: border-box;
+  overflow-x: hidden;
+  margin: 0 auto;
+  position: relative;
+  min-width: auto;
+  padding: 0 20px;
+  font-family: "Inter", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+}
